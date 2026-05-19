@@ -14,18 +14,18 @@
 
 ---
 
-# 🌊 ABOUT ME
+# ABOUT ME
 
-- 👩‍🎓 Informatics Student  
-- 🌐 Focused on Web & Mobile Development  
-- 🛠️ Laravel, PHP, Flutter, MySQL, Tailwind CSS  
-- 🚀 Passionate about building impactful applications  
-- 🌱 Currently learning modern technologies  
-- 🪼 Love ocean aesthetic & clean UI design  
+- Informatics Student  
+- Focused on Web & Mobile Development  
+- Laravel, PHP, Flutter, MySQL, Tailwind CSS  
+- Passionate about building impactful applications  
+- Currently learning modern technologies  
+- Love ocean aesthetic & clean UI design  
 
 ---
 
-# 🪼 TECH STACK
+# TECH STACK
 
 <div align="center">
 
@@ -35,30 +35,28 @@
 
 ---
 
-# 🌌 FEATURED PROJECTS
-
 <table>
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 🎬 TICS ID
 
-Cinema ticket reservation application with booking system.
+Web-based cinema ticket booking and reservation application designed to simplify movie ticket ordering and scheduling.
 
 ### ⚙️ Tech Stack
-`Laravel` `PHP` `MySQL`
+`Laravel` `PHP` `MySQL` `Tailwind CSS`
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 🎱 Forcue
 
-Billiard table reservation platform with modern UI/UX.
+Web-based billiard table booking and reservation application with a modern and user-friendly interface.
 
 ### ⚙️ Tech Stack
-`Laravel` `Tailwind CSS`
+`Laravel` `PHP` `MySQL` `Tailwind CSS`
 
 </td>
 
@@ -66,46 +64,46 @@ Billiard table reservation platform with modern UI/UX.
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 🎓 EduConnect
 
-Educational collaboration platform for students and educators.
+Web and mobile-based parent-student information system application that connects parents and teachers to support communication and student monitoring.
+
+The mobile application is designed for parents, while teachers and administrators use the web platform.
 
 ### ⚙️ Tech Stack
-`Laravel` `PHP` `MySQL`
+`Laravel` `PHP` `MySQL` `Flutter` `Dart`
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 📱 SiTumbuh
 
-Stunting detection and child growth monitoring application based on WHO standard calculations.
+Early stunting risk detection and child growth monitoring application using WHO Standard Z-Score calculations for growth assessment.
 
 ### ⚙️ Tech Stack
-`Flutter` `WHO Z-Score`
+`Flutter` `Dart` `Laravel` `PHP` `MySQL` `WHO Z-Score`
 
 </td>
 
 </tr>
 </table>
 
----
-
-# 📊 GITHUB STATISTICS
+# GITHUB STATISTICS
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jesicakristina&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jesicakristina&theme=tokyonight" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesicakristina&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jesicakristina&theme=tokyonight" />
 
 </div>
 
 ---
 
-# 🔥 GITHUB STREAK
+# GITHUB STREAK
 
 <div align="center">
 
@@ -115,27 +113,27 @@ Stunting detection and child growth monitoring application based on WHO standard
 
 ---
 
-# 🌌 CONTRIBUTION ACTIVITY
+# CONTRIBUTION ACTIVITY
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/jesicakristina/jesicakristina/output/github-contribution-grid-snake-dark.svg" />
+<img width="100%" src="https://raw.githubusercontent.com/jesicakristina/JesicaKristinaManalu/output/github-contribution-grid-snake.svg" />
 
 </div>
 
 ---
 
-# 🏆 GITHUB TROPHIES
+# GITHUB TROPHIES
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=jesicakristina&theme=algolia&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=jesicakristina&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1" />
 
 </div>
 
 ---
 
-# 🌐 CONNECT WITH ME
+# CONNECT WITH ME
 
 <div align="center">
 
@@ -150,15 +148,5 @@ Stunting detection and child growth monitoring application based on WHO standard
 <a href="https://github.com/jesicakristina">
   <img src="https://skillicons.dev/icons?i=github" />
 </a>
-
-</div>
-
----
-
-<div align="center">
-
-# ✨ Quote
-
-> *"Keep learning, keep building, and never stop improving."*
 
 </div>
