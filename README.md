@@ -35,6 +35,8 @@
 
 ---
 
+# FEATURED PROJECTS
+
 <table>
 <tr>
 
@@ -91,6 +93,8 @@ Early stunting risk detection and child growth monitoring application using WHO 
 </tr>
 </table>
 
+---
+
 # GITHUB STATISTICS
 
 <div align="center">
@@ -117,7 +121,7 @@ Early stunting risk detection and child growth monitoring application using WHO 
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/jesicakristina/JesicaKristinaManalu/output/github-contribution-grid-snake.svg" />
+<img width="100%" src="https://raw.githubusercontent.com/jesicakristina/jesicakristina/output/github-contribution-grid-snake.svg" />
 
 </div>
 
