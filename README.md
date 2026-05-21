@@ -107,16 +107,6 @@ Early stunting risk detection and child growth monitoring application using WHO 
 
 ---
 
-# GITHUB STREAK
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=jesicakristina&theme=tokyonight&hide_border=true&background=0D1117" />
-
-</div>
-
----
-
 # CONTRIBUTION ACTIVITY
 
 <div align="center">
